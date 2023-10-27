@@ -1,1 +1,1 @@
-web gunicorn qltb.wsgi
+web gunicorn main.wsgi
